@@ -1,0 +1,104 @@
+body { 
+
+	/* Atur warna background halaman menjadi Hijau*/
+	background: green; 
+
+}
+
+form {
+		/* Atur posisi ke absolute*/
+  		position: absolute;
+
+  		/* Atur posisi atas menjadi 20% dan kiri 35% atau sesuaikan saja biar pas ditengah-tengah layar*/
+  		top: 20%;
+  		left: 35%;
+
+  		/* Atur warna background jadi Putih*/
+  		background: #FFFFFF; /*atau warna white*/
+
+  		/* Atur lebar formulir jadi 360px*/
+  		width: 360px;
+
+  		/* Atur batas luar atau margin jadi 0 auto*/
+  		margin: 0 auto;
+
+  		/* Atur batas dalam atau padding menjadi 45px dan sesuaikan saja*/
+  		padding: 45px;
+
+  		/* Atur Tombol jadi ketengah secara horizontal*/
+  		text-align: center;
+
+  		/* Atur sudut lengkungan jadi 5px agar sedikit membulat*/
+  		border-radius: 5px;
+	}
+
+.title {
+
+	/* Atur teks 'TAMBAH SISWA' menjadi ketengah secara horizontal*/
+	text-align: center; 
+
+	/* Atur warna teks menjadi hijau*/
+	color: green;
+}
+
+.kotakinput {
+		/* Atur warna kotak input jadi agak gelap sedikit boleh warna apa saja*/
+		background: #f2f2f2;
+
+		/* Atur sudut lengkung menjadi 5px atau menyesuaikan formulir*/
+		border-radius: 5px;
+
+		/* Atur atau hilangkan garis tepi atau border menjadi 0*/
+		border: none;
+
+		/* Atur batas dalam atau padding menjadi 10px dan sesuaikan saja*/
+		padding: 10px;
+
+		/* Atur tinggi dan lebar kotak inputnya dan sesuaikan saja*/
+		height: 25px;
+		width: 300px;
+	}
+
+.button {
+
+		/* Atur warna teks tombol menjadi putih*/
+		color: white;
+
+		/* Atur batas luar atas atau margin atas ke 55px*/
+		margin-top: 55px;
+
+		/* Atur sudut lengkung menjadi 5px atau menyesuaikan formulir*/
+		border-radius: 5px;
+
+		/* Atur atau hilangkan garis tepi atau border menjadi 0*/
+		border: none;
+
+		/* Atur batas dalam atau padding menjadi 5px dan sesuaikan saja*/
+		padding: 5px;
+
+		/* Atur tinggi dan lebar kotak inputnya dan sesuaikan saja*/
+		height: 35px;
+		width: 100px;
+	}
+
+.button:hover {
+
+		/* Atur warna agak sedikit memudar ketika tombol di arahkan dengan kursor*/
+		opacity: 0.6;
+
+		/* Atur warna teks tombol menjadi putih*/
+		color: white;
+	}
+
+.simpan { 
+
+		/* Atur warna tombol SIMPAN menjadi biru*/
+		background-color: blue; 
+	}
+
+
+.kembali { 
+
+		/* Atur warna tombol KEMBALI menjadi hijau*/
+		background-color: green; 
+	}	
