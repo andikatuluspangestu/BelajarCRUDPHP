@@ -38,4 +38,4 @@ Aplikasi ini Open Source dan tidak sepenuhnya saya buat sendiri Full Stack, namu
 ### 💖 Semangat UKK for Adistia..
 
 ### 📜 License 
-**This apllication is open-sourced software licensed under the MIT license**
+**This application is open-sourced software licensed under the MIT license**
